@@ -1,0 +1,33 @@
+Code style,annotation style and statistical features use the following measures:
+
+		a1=Average of characters per line
+		
+		a2=Average of white space characters indented before per line 
+		
+		a3=Average of separated characters  per line
+		
+		a4=Average of white space characters reserved at the end of per line
+		
+		a5=Percentage of blank code to the entire code
+		
+		a6=Percentage of compound statement lines to the entire line of code
+		
+		a7=Percentage of left brace in normative position
+		
+		b1=Average of comment characters per line
+		
+		b2=Percentage of block comment lines to the whole comment lines
+		
+		b3=Percentage of a single comment line to the entire comment lines
+		
+		b4=Percentage of single-line composite comment lines to the entire comment lines
+		
+		c1=Number of code lines
+		
+		c2=Number of assignment statements
+		
+		c3=Number of loop control statements
+		
+		c4=Number of selection control statements
+		
+		c5=Number of custom functions
